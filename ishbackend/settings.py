@@ -35,7 +35,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     '176.58.106.227',
-    'o8k0ww8.176.58.106.227.sslip.io',
+    'app.ish.pm',
 ]
 
 
